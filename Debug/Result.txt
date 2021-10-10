@@ -1,0 +1,78 @@
+[1]
+Pit =  94088 t = 1.88176
+Point of impact = 96009 t = 1.92018
+Point of maximum = 96163 t = 1.92326
+Value of maximum = 27.4302513497
+End of hesitation = 105776 t = 2.11552
+[2]
+Pit =  189609 t = 3.79218
+Point of impact = 191506 t = 3.83012
+Point of maximum = 191653 t = 3.83306
+Value of maximum = 27.6376443457
+End of hesitation = 201517 t = 4.03034
+[3]
+Pit =  285395 t = 5.7079
+Point of impact = 287305 t = 5.7461
+Point of maximum = 287448 t = 5.74896
+Value of maximum = 26.8220539121
+End of hesitation = 297366 t = 5.94732
+[4]
+Pit =  381124 t = 7.62248
+Point of impact = 383029 t = 7.66058
+Point of maximum = 383166 t = 7.66332
+Value of maximum = 26.7195225433
+End of hesitation = 393075 t = 7.8615
+[5]
+Pit =  477025 t = 9.5405
+Point of impact = 478919 t = 9.57838
+Point of maximum = 479076 t = 9.58152
+Value of maximum = 27.1296480184
+End of hesitation = 488892 t = 9.77784
+[6]
+Pit =  572871 t = 11.45742
+Point of impact = 574771 t = 11.49542
+Point of maximum = 574933 t = 11.49866
+Value of maximum = 28.1875853238
+End of hesitation = 584350 t = 11.687
+[7]
+Pit =  668753 t = 13.37506
+Point of impact = 670657 t = 13.41314
+Point of maximum = 670798 t = 13.41596
+Value of maximum = 27.1203269849
+End of hesitation = 680426 t = 13.60852
+[8]
+Pit =  765331 t = 15.30662
+Point of impact = 766464 t = 15.32928
+Point of maximum = 766600 t = 15.332
+Value of maximum = 26.6892291843
+End of hesitation = 776657 t = 15.53314
+[9]
+Pit =  860340 t = 17.2068
+Point of impact = 862243 t = 17.24486
+Point of maximum = 862382 t = 17.24764
+Value of maximum = 26.7521461606
+End of hesitation = 872153 t = 17.44306
+[10]
+Pit =  956248 t = 19.12496
+Point of impact = 958164 t = 19.16328
+Point of maximum = 958307 t = 19.16614
+Value of maximum = 26.72418306
+End of hesitation = 968345 t = 19.3669
+[11]
+Pit =  1051991 t = 21.03982
+Point of impact = 1053889 t = 21.07778
+Point of maximum = 1054036 t = 21.08072
+Value of maximum = 26.7102015097
+End of hesitation = 1065415 t = 21.3083
+[12]
+Pit =  1147879 t = 22.95758
+Point of impact = 1149774 t = 22.99548
+Point of maximum = 1149920 t = 22.9984
+Value of maximum = 26.8779801132
+End of hesitation = 1159569 t = 23.19138
+[13]
+Pit =  1243639 t = 24.87278
+Point of impact = 1245547 t = 24.91094
+Point of maximum = 1245688 t = 24.91376
+Value of maximum = 26.7171922849
+End of hesitation = 1255732 t = 25.11464
