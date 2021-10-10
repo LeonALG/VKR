@@ -1,0 +1,4 @@
+C:\Program Files (x86)\LCard\LIBRARY\l7xx.tst\Client\Debug\Client.exe
+C:\Program Files (x86)\LCard\LIBRARY\l7xx.tst\Client\Debug\Client.pdb
+C:\Program Files (x86)\LCard\LIBRARY\l7xx.tst(My)\Client\Debug\Client.exe
+C:\Program Files (x86)\LCard\LIBRARY\l7xx.tst(My)\Client\Debug\Client.pdb

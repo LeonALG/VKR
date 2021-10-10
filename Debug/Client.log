@@ -1,0 +1,7 @@
+﻿  ADCFile.cpp
+  Client.cpp
+  Plata.cpp
+C:\Program Files (x86)\LCard\LIBRARY\l7xx.tst(My)\Client\Plata.cpp(252,28): warning C4244: =: преобразование "ULONG" в "USHORT", возможна потеря данных
+C:\Program Files (x86)\LCard\LIBRARY\l7xx.tst(My)\Client\Plata.cpp(253,26): warning C4244: =: преобразование "ULONG" в "USHORT", возможна потеря данных
+  Создание кода...
+  Client.vcxproj -> C:\Program Files (x86)\LCard\LIBRARY\l7xx.tst(My)\Client\Debug\Client.exe
